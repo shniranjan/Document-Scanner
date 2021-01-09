@@ -7,15 +7,6 @@ In this video we are going to create a simple document scanner using opencv. We 
 
 Subscribe its FREE !!! 😂😂😂
 
-Product Links:
-
-Recommend Webcam for Computer Vision:
-
-https://amzn.to/2MNtVKZ
-
-Budget Webcam:
-
-https://amzn.to/2ZP47Ug
 
 Links:
 
